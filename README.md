@@ -84,25 +84,44 @@
 
     <h2>🎭 Roleplay Regels</h2>
     <div class="box">
-        <p><b>Art 6 – Fail RP:</b> Onrealistisch gedrag. → Cat 5</p>
-        <p><b>Art 7 – Verstoren RP:</b> Opzettelijk verstoren. → Cat 3</p>
-        <p><b>Art 8 – Metagaming:</b> Buiteninfo gebruiken. → Cat 4</p>
-        <p><b>Art 9 – Streamsniping:</b> → Cat 6</p>
-        <p><b>Art 10 – New Life Rule:</b> Herinneringen vergeten. → Cat 4</p>
-        <p><b>Art 11 – NVL:</b> Geen waarde aan leven. → Cat 6</p>
-        <p><b>Art 12 – RDM:</b> Onterecht doden. → Cat 5</p>
-        <p><b>Art 13 – VDM:</b> Opzettelijk aanrijden. → Cat 4</p>
-        <p><b>Art 14 – Combat-logout:</b> Binnen 10 min weg. → Cat 4</p>
-        <p><b>Art 15 – Combat-stash:</b> Wapen wegleggen. → Cat 3</p>
+        <p><b>Art 6 – Het is verboden om onrealistisch of ongeloofwaardig deel te nemen aan een roleplayscenario. Acties moeten altijd logisch, realistisch en passend binnen de situatie zijn. → Cat 5</p>
+        <p><b>Art 7 – Verstoren RP:</b> Het opzettelijk verstoren, saboteren of onderbreken van roleplay tussen andere spelers is niet toegestaan. Dit omvat onder andere onnodig inmengen, trollen of het verpesten van een lopend scenario. → Cat 3</p>
+        <p><b>Art 8 – Metagaming:</b> Informatie die niet via jouw karakter is verkregen, mag je niet gebruiken in roleplay. Voorbeelden: Discord-gesprekken, streams, clips, appjes buiten FiveM. → Cat 4</p>
+        <p><b>Art 9 – Streamsniping:</b> Het opzoeken, volgen, herkennen of beïnvloeden van spelers via hun livestream is verboden.Dit geldt ook wanneer je hun locatie of plannen via een stream meekrijgt. → Cat 6</p>
+        <p><b>Art 10 – New Life Rule:</b> Wanneer je karakter overlijdt, vergeet je alles wat te maken heeft met dat scenario. Je mag niet terugkeren naar de plek van overlijden en geen informatie gebruiken uit dat scenario. → Cat 4</p>
+        <p><b>Art 11 – NVL:</b> Je karakter moet altijd waarde hechten aan zijn leven. Voorbeelden van NVOL: Weg rennen terwijl er een wapen op je gericht staat, Dreigen tegen gewapende personen of Onrealistische heldenacties → Cat 6</p>
+        <p><b>Art 12 – RDM:</b> Spelers vermoorden zonder geldige RP-reden of zonder opbouw in het scenario is verboden. → Cat 5</p>
+        <p><b>Art 13 – VDM:</b> Het opzettelijk aanrijden of doodrijden van spelers zonder realistische RP-reden is niet toegestaan. → Cat 4</p>
+        <p><b>Art 14 – Combat-logout:</b> Na een roleplayscenario mag je 10 minuten niet uitloggen. Doe je dit toch, dan geldt het als combat-loggen. → Cat 4</p>
+        <p><b>Art 15 – Combat-stash:</b> Binnen 10 minuten na een scenario mag je geen wapens of illegale items wegleggen in een stash, kofferbak of inventaris van anderen. → Cat 3</p>
     </div>
 
     <h2>💼 Economie & Items</h2>
     <div class="box">
-        <p><b>Art 16 – Scammen:</b> Verboden. → Cat 4</p>
-        <p><b>Art 17 – IRL Trading:</b> → Cat 10</p>
-        <p><b>Art 18 – Overheidskleding:</b> Verboden voor burgers. → Cat 3</p>
-        <p><b>Art 19 – Impersonatie overheid:</b> → Cat 3</p>
-        <p><b>Art 20 – Copbaiting:</b> → Cat 3</p>
+        <p><b>Art 16 – Scammen:</b> Oplichten met voertuigen of items is verboden. Gescamde spullen moeten altijd worden teruggegeven met uitzondering van items uit de criminaliteit.  → Cat 4</p>
+        <p><b>Art 17 – IRL Trading:</b> Het verkopen of kopen van in-game items voor echt geld is ten strengste verboden. → Cat 10</p>
+        <p><b>Art 18 – Overheidskleding:</b> Burgers mogen geen overheidsuniformen of uitrusting dragen. → Cat 3</p>
+        <p><b>Art 19 – Impersonatie overheid:</b> Je mag je niet voordoen als politie, ambulance of andere overheidsdienst. → Cat 3</p>
+        <p><b>Art 20 – Copbaiting:</b> Het bewust uitlokken van politie om achtervolgingen te starten is niet toegestaan. → Cat 3</p>
+    </div>
+    
+    <h2>📌 Hulpdiensten & Veiligheid</h2>
+    <div class="box">
+        <p><b>Art 21 – Ambulance:</b> Het gijzelen, aanvallen, bedreigen of doden van ambulancepersoneel is verboden.  → Cat 5</p>
+        <p><b>Art 22 – Staff-Impersonatie:</b> Het voordoen als stafflid of doen alsof je staffbevoegdheden hebt is verboden. → Cat 5</p>
+        <p><b>Art 23 – Microfoon:</b> Iedere speler moet beschikken over een goed werkende microfoon. Roleplay zonder verstaanbare stem is niet toegestaan. → Cat 1</p>
+    </div> 
+    
+    <h2>📌 Technisch & Exploits</h2>
+    <div class="box">
+        <p><b>Art 24 – Cheats:</b> Het gebruik van externe software, hacks, injectors of andere hulpmiddelen is volledig verboden.  → Cat 10</p>
+        <p><b>Art 25 – Exploits:</b> Het misbruiken van bugs, glitches of systemen (zoals duplicatie, money exploits, stash glitches) is verboden. → Cat 3 t/m Cat 10</p>
+    </div>    
+    
+    <h2>📌 Communicatie & Media</h2>
+    <div class="box">
+        <p><b>Art 26 – Discord voor RP:</b> Het gebruik van externe software, hacks, injectors of andere hulpmiddelen is volledig verboden.  → Cat 5</p>
+        <p><b>Art 27 – Twitter:</b> Het misbruiken van bugs, glitches of systemen (zoals duplicatie, money exploits, stash glitches) is verboden. → Cat 2</p>
     </div>
 
     <h2>🚓 Overheid Regels (OH)</h2>
