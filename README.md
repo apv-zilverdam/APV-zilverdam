@@ -303,6 +303,6 @@ Minimaal 5 min wachten na groen licht.
 
 ---
 
-# 🕊️ Laatste Update
+# 🕊️ Laatste Update 17:12 10-12-2025
 Deze pagina hoort bij de officiële regelgeving van **Zilverdam Roleplay** en wordt regelmatig bijgewerkt.
 
