@@ -177,76 +177,76 @@
 
     <h2>🚓 Overheid Regels (OH)</h2>
     <div class="box">
-        <p><b>OH 1 – Hostages & Eisen:</b></p> 
-        <p><b>- Per hostage mag 1 eis worden gesteld.</p> 
-        <p><b>- Een overheidsmedewerker telt voor 2 eisen.</p> 
-        <p><b>- Elke aanvraag die de gijzelnemer eist is 1 eis.</p> 
+        <p><b>OH 1 – Hostages & Eisen:</b>
+        <p><b>- Per hostage mag 1 eis worden gesteld.
+        <p><b>- Een overheidsmedewerker telt voor 2 eisen.
+        <p><b>- Elke aanvraag die de gijzelnemer eist is 1 eis.
         <p><b>- Indien de gijzelnemer geld wilt eisen mag hij maximaal 25.000 zwart geld eisen dit geld als 1 eis.</p> 
         
-        <p><b>OH 2 – Verboden Eisen:</b></p> 
-        De volgende eisen zijn niet toegestaan:</p> 
-        <p><b>- Verbieden dat er een achtervolging start.</p>
-        <p><b>- Eenheden wegsturen.</p> 
-        <p><b>- Hostages menemen tijdens de achtervolging.</p>
+        <p><b>OH 2 – Verboden Eisen:</b>
+        De volgende eisen zijn niet toegestaan:
+        <p><b>- Verbieden dat er een achtervolging start.
+        <p><b>- Eenheden wegsturen.
+        <p><b>- Hostages menemen tijdens de achtervolging.
         <p><b>- Enkele andere eisen die de politie beperkt in haar werk.</p>
         
-        <p><b>OH 3 – Huiszoekingen:</b></p> 
-        <p><b>- Huiszoekingen moeten altijd vooraf worden goedgekeurd door de Hulpdiensten-Coördinatoren.</p>
+        <p><b>OH 3 – Huiszoekingen:</b>
+        <p><b>- Huiszoekingen moeten altijd vooraf worden goedgekeurd door de Hulpdiensten-Coördinatoren.
         <p><b>- Er is echter ook een maximaal van 50% van de aangetroffen goederen die definitief afgenomen mogen worden.</p>
         
-        <p><b>OH 4 – PIT-acties:</b></p> 
-        <p><b>- Reguliere eenheden: PIT tot maximaal 100 km/u</p>
+        <p><b>OH 4 – PIT-acties:</b>
+        <p><b>- Reguliere eenheden: PIT tot maximaal 100 km/u
         <p><b>- SIV / DSI eenheden: PIT tot maximaal 150 km/u</p>
         
         <p><b>OH 5 – Ganginvallen:</b> Alleen toegestaan wanneer er vooraf goedkeuring is gegeven door de Hulpdiensten Coördinatoren en de Commandant van de Dienst Speciale Interventies.</p>
         
-        <p><b>OH 6 – Advocaten:</b> Een vriend/bekende van de verdachte mag advocaat spelen.</p>
+        <p><b>OH 6 – Advocaten:</b> Een vriend/bekende van de verdachte mag advocaat spelen.
         Voorwaarden:
-        <p><b>- Houdt zich aan alle RP-regels.</p>
-        <p><b>- Verschijnt zonder wapens.</p>
+        <p><b>- Houdt zich aan alle RP-regels.
+        <p><b>- Verschijnt zonder wapens.
         <p><b>- Gedraagt zich proffesioneel.</p>
         
-        <p><b>OH 7 – Combat-Gedrag:</b> Combat-gedrag zoals gericht voor headshot spelen is verboden. Alleen toegestaan als er geen andere oplossing meer mogelijk is.</p>
+        <p><b>OH 7 – Combat-Gedrag:</b> Combat-gedrag zoals gericht voor headshot spelen is verboden. Alleen toegestaan als er geen andere oplossing meer mogelijk is.
         <p><b>- Hier kunnen zware straffen op volgen.</p>
         
-        <p><b>OH 8 – Combat-Rollen:</b> Tijdens of vlak na een gevecht wegrollen of rollen om kogels te ontwijken wordt gezien als combat-gedrag.</p>
+        <p><b>OH 8 – Combat-Rollen:</b> Tijdens of vlak na een gevecht wegrollen of rollen om kogels te ontwijken wordt gezien als combat-gedrag.
         <p><b>- Dit is niet toegestaan.</p>
         
-        <p><b>OH 9 – Aanhoudingen:</b> Bij elke aanhouding moeten de rechten duidelijk worden voorgelezen.</p> 
+        <p><b>OH 9 – Aanhoudingen:</b> Bij elke aanhouding moeten de rechten duidelijk worden voorgelezen.
         <p><b>- De verdachte wordt altijd naar het hoofdbureau gebracht voor verdere afhandeling.</p>
         
-        <p><b>OH 10 – Proportionaliteit:</b> Al het politieoptreden moet in verhouding staan tot het doel.</p>
+        <p><b>OH 10 – Proportionaliteit:</b> Al het politieoptreden moet in verhouding staan tot het doel.
         <p><b>- Middelen en geweld moet redelijk en gepast blijven.</p>
     </div>
 
     <h2>🔫 Onderwereld Regels (OW)</h2>
     <div class="box">
-        <p><b>OW 1 – Rippen:</b> Rippen is alleen toegestaan met een geldige, zichbare reden zoals:</p>
-        <p><b>- Holster zichtbaar.</p>
-        <p><b>- Zichtbaar kogelwerend vest.</p>
+        <p><b>OW 1 – Rippen:</b> Rippen is alleen toegestaan met een geldige, zichbare reden zoals:
+        <p><b>- Holster zichtbaar.
+        <p><b>- Zichtbaar kogelwerend vest.
         <p><b>- Wapen op de rug.</p>
-        <p><b>- Gezicht bedekt / masker op.</p>
-        <p><b>- Andere duidelijke criminele signalen.</p>
+        <p><b>- Gezicht bedekt / masker op.
+        <p><b>- Andere duidelijke criminele signalen.
         
-        <p><b>- Geld rippen mag uitsluitend wanneer het om zwart geld gaat.</p>
+        <p><b>- Geld rippen mag uitsluitend wanneer het om zwart geld gaat.
         <p><b>- Wit geld mag nooit worden geript.</p>
         
-        <p><b>OW 2 – Hostages:</b></p>
-        <p><b>- Ambulancepersoneel en ANWB-medewerkers mogen niet als hostage gebruikt worden.</p>
-        <p><b>- Wapens afpakken of porto blokkeren mag alleen via /me, dus niet zomaar afnemen.</p>
+        <p><b>OW 2 – Hostages:</b>
+        <p><b>- Ambulancepersoneel en ANWB-medewerkers mogen niet als hostage gebruikt worden.
+        <p><b>- Wapens afpakken of porto blokkeren mag alleen via /me, dus niet zomaar afnemen.
         <p><b>- Zodra iemand hostage is genomen mag je geen spullen van die persoon afpakken.</p>
         
         <p><b>OW 3 – Ganginvallen:</b> Ganginvallen zijn alleen toegestaan wanneer er voorgaand toestemming is van de Onderwereld-coördinator.</p>
         
-        <p><b>OW 4 – Eiland:</b></p> 
-        - Het eiland is een risicogebied.</p>
+        <p><b>OW 4 – Eiland:</b> 
+        - Het eiland is een risicogebied.
         - Je mag hier overal én altijd geript worden.</p>
         
         <p><b>OW 5 – Benen:</b> Als je in je benen wordt geschoten, mag je 10 seconden geen wapen trekken. Je mag wél lopen om dekking te zoeken.</p>
         
-        <p><b>OW 6 – Banden:</b> Wanneer iemand ondanks een getrokken wapen toch:</p>
-        <p><b>- Weg rijdt.</p>
-        <p><b>- Of begint te schieten.</p>
+        <p><b>OW 6 – Banden:</b> Wanneer iemand ondanks een getrokken wapen toch:
+        <p><b>- Weg rijdt.
+        <p><b>- Of begint te schieten.
         <p><b>Dan is het toegestaan om banden te schieten</p>
         
         <p><b>OW 7 – Gangs:</b> Een gang mag bestaan uit maximaal 20 vaste leden.</p>
@@ -259,17 +259,17 @@
         
         <p><b>OW 11 – Verkoop/Pluk/Verpak:</b> Alle locaties waar je kunt verkopen, plukken of verpakken zijn officiële risicogebieden. Rippen is hier volledig toegestaan.</p>
         
-        <p><b>OW 12 – Hulpdiensten gijzelen:</b> Het gijzelen op of rondom de volgende locaties is verboden:</p>
-        <p><b>- Politiebureau HB.</p>
-        <p><b>- Ambulance HB.</p>
+        <p><b>OW 12 – Hulpdiensten gijzelen:</b> Het gijzelen op of rondom de volgende locaties is verboden:
+        <p><b>- Politiebureau HB.
+        <p><b>- Ambulance HB.
         <p><b>- Wegenwacht HB.</p>
         
         <p><b>OW 13 – Setups:</b> Een setup mag pas worden uitgevoerd minimaal 5 minuten nadat er groen licht is gegeven. Onder de 5 minuten is een setup niet toegestaan.</p>
         
-        <p><b>OW 14 – Hostages per overval:</b> Voor een:</p>
-        <p><b>- Winkeloverval heb je minimaal 1 hostage nodig.</p>
-        <p><b>- Kleine bank heb je minimaal 2 hostages nodig.</p>
-        <p><b>- Juwelier heb je minimaal 3 hostages nodig.</p>
-        <p><b>- Grote bank heb je minimaal 4 hostages nodig.</p>
+        <p><b>OW 14 – Hostages per overval:</b> Voor een:
+        <p><b>- Winkeloverval heb je minimaal 1 hostage nodig.
+        <p><b>- Kleine bank heb je minimaal 2 hostages nodig.
+        <p><b>- Juwelier heb je minimaal 3 hostages nodig.
+        <p><b>- Grote bank heb je minimaal 4 hostages nodig.
         <p><b>- Jachtoverval heb je minimaal 5 hostages nodig.</p>
     </div>
