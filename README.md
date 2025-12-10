@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="nl">
 <head>
     <meta charset="UTF-8">
@@ -76,11 +75,11 @@
     <!-- ALGEMENE REGELS -->
     <h2>📘 Algemene Regels</h2>
     <div class="box">
-        <p><b>Art 1 – Respect:</b> Schelden, beledigen of ongepast gedrag. → Cat 1 / ernstig Cat 4</p>
-        <p><b>Art 2 – Taalgebruik:</b> Nederlands verplicht. → Cat 1</p>
-        <p><b>Art 3 – Overlast:</b> Opzettelijk kloten. → Cat 4</p>
-        <p><b>Art 4 – Spammen:</b> Chatspam of onzin-reports. → Cat 2</p>
-        <p><b>Art 5 – OOC praten:</b> Onnodig uit karakter. → Cat 2</p>
+        <p><b>Art 1 – Respect:</b> Spelers moeten elkaar te allen tijde respectvol behandelen. Schelden, beledigen, provoceren of ander ongepast gedrag richting andere spelers is niet toegestaan. → Cat 1 / ernstig Cat 4</p>
+        <p><b>Art 2 – Taalgebruik:</b> Bij het betreden van de server is Nederlands verplicht als voertaal. Dit voorkomt miscommunicatie en zorgt voor gelijke kansen voor alle spelers. → Cat 1</p>
+        <p><b>Art 3 – Overlast:</b> Opzettelijk overlast veroorzaken, trollen of “kloten” met andere spelers of het spelverloop is verboden. Hieronder valt onder andere: hinderlijk gedrag, situaties bewust saboteren en mensen lastigvallen. → Cat 4</p>
+        <p><b>Art 4 – Spammen:</b> Het spammen van chat, voice of het indienen van onzin-reports is verboden. Reports moeten altijd inhoudelijk en terecht zijn. → Cat 2</p>
+        <p><b>Art 5 – OOC praten:</b> Onnodig uit karakter (OOC) praten tijdens roleplay is niet toegestaan. Dit mag alleen wanneer het écht nodig is en zo kort mogelijk. → Cat 2</p>
     </div>
 
     <h2>🎭 Roleplay Regels</h2>
